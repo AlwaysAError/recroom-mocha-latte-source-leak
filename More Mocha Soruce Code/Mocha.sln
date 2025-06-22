@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mocha", "Mocha\Mocha.vcxproj", "{8945321E-F6CC-4C69-8B6E-59F7A24120EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CHEAP|x64 = CHEAP|x64
+		CHEAP|x86 = CHEAP|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		PROD|x64 = PROD|x64
+		PROD|x86 = PROD|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.CHEAP|x64.ActiveCfg = CHEAP|x64
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.CHEAP|x64.Build.0 = CHEAP|x64
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.CHEAP|x86.ActiveCfg = CHEAP|Win32
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.CHEAP|x86.Build.0 = CHEAP|Win32
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.Debug|x64.ActiveCfg = Debug|x64
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.Debug|x64.Build.0 = Debug|x64
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.Debug|x86.Build.0 = Debug|Win32
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.PROD|x64.ActiveCfg = PROD|x64
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.PROD|x64.Build.0 = PROD|x64
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.PROD|x86.ActiveCfg = PROD|Win32
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.PROD|x86.Build.0 = PROD|Win32
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.Release|x64.ActiveCfg = Release|x64
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.Release|x64.Build.0 = Release|x64
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.Release|x86.ActiveCfg = Release|Win32
+		{8945321E-F6CC-4C69-8B6E-59F7A24120EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69DB6020-6CAB-4AC2-B98F-7E15C2C60BA3}
+	EndGlobalSection
+EndGlobal
